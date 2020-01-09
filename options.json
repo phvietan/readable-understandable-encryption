@@ -1,0 +1,7 @@
+{
+    "url": "http://truyenfull.vn/yeu-than-ky/chuong-",
+    "crawl_left": 1,
+    "crawl_right": 10,
+    "max_chapter": 2672,
+    "crawl_output": "literature.txt"
+}
